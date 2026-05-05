@@ -7,3 +7,21 @@
     }
   ]
 }
+{
+"subject": "emily@sharklz.com",
+  "links": [
+    {
+      "rel": "http://openid.net/specs/connect/1.0/issuer",
+      "href": "https://sharklz.uk.auth0.com/"
+    }
+  ]
+}
+{
+"subject": "mitch@sharklz.com",
+  "links": [
+    {
+      "rel": "http://openid.net/specs/connect/1.0/issuer",
+      "href": "https://sharklz.uk.auth0.com/"
+    }
+  ]
+}
